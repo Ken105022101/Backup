@@ -1,4 +1,6 @@
 #!/usr/bin/python3
 from os import system
-
+system("git add ./*")
+system("git commit")
+system("git push")
 print("success")
