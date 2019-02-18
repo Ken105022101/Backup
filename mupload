@@ -1,6 +1,9 @@
 #!/usr/bin/python3
+import subprocess as spc
 from os import system
 system("git add ./*")
 system("git commit")
 system("git push")
+system("Ken105022101")
+system("s19971220")
 print("success")
